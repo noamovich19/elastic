@@ -1,0 +1,1 @@
+posts = Post.mget([42, 47, 256] , raise_on_error = True)
